@@ -1,0 +1,12 @@
++ echo 1
++ set +x
++ echo 2
++ set +x
++ echo 3
++ set +x
++ echo 4
++ set +x
++ echo 5
++ set +x
++ echo 6
++ set +x
